@@ -199,3 +199,5 @@ As a result you should receive a response similar to the following:
 There are also some tests, checking above endpoints, available in the `users/tests/users/test_points.py` module.  
 
 To execute the tests simply call `docker-compose exec web pytest` (you can add the `-v` flag for a verbose ouput).
+
+/add some testing 
